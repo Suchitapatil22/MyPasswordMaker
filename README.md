@@ -8,15 +8,13 @@ Welcome to MyPasswordMaker, the ultimate tool for generating strong and secure p
    ```bash
    git clone https://github.com/Suchitapatil22/MyPasswordMaker.git
    
-Navigate to the project directory:
-bash
-Copy code
-cd MyPasswordMaker
+2. Navigate to the project directory:
+   ```bash
+   cd MyPasswordMaker
 
-Run the password generator script:
-bash
-Copy code
-python secure_password_generator.py
+3. Run the password generator script:
+     ```bash
+   python secure_password_generator.py
 
 🚀 Features:
 Generates strong passwords with a length of 15 characters! 🔑
